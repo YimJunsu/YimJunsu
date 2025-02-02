@@ -3,12 +3,14 @@
 
 <div align=center>
 
-#### :muscle:**My name is Yim Junsu**🌱
-**:notebook: My Skills**
+### :muscle:**My name is Yim Junsu**🌱
+</div>
+<div align=center>
+
+##### **:notebook: My Skills**
 </div>
 
 ---
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
