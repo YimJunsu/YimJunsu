@@ -1,10 +1,13 @@
-## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YimJunsu&layout=compact&card_width=400)](https://github.com/YimJunsu/github-readme-stats)
 
-<hr>
+
+<div align=center>
+
+#### :muscle:**My name is Yim Junsu**🌱
+**:notebook: My Skills**
+</div>
+
 ---
-<h3 align="center">I'm YimJunsu</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -22,6 +25,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-<hr>
+---
+<p align="center">
 
+  <a href="https://github.com/YimJunsu/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YimJunsu&layout=compact&card_width=400" alt="Top Langs" />
+  </a>
+</p>
 
