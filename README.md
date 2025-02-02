@@ -1,6 +1,9 @@
 ## Hi there 👋
-<hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YimJunsu&layout=compact&card_width=400)](https://github.com/YimJunsu/github-readme-stats)
+
+<hr>
+---
 <h3 align="center">I'm YimJunsu</h3>
 
 <p align="center">
