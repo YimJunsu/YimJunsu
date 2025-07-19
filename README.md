@@ -1,9 +1,6 @@
 <div align="center">
 
-# 💪 Yim Junsu | Backend Developer 🚀
-
-### 안녕하세요! 호기심 가득한 개발자 임준수입니다.
-
+# 💪 Hi, I'm Yim Junsu 
 ---
 
 ## 🛠️ Tech Stack
@@ -14,7 +11,6 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot">
   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" alt="JSP">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 </p>
 
 **Frontend**
